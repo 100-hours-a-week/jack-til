@@ -2,6 +2,7 @@
 
 ### [ 11월 넷째주, 4주차 ] - Express 웹 서버, React, DB 개념 정리
 
+- [x] [2024-11-12](https://github.com/100-hours-a-week/jack-til/blob/main/November/2024-11-12.md) - [React 개념 정리]
 - [x] [2024-11-11](https://github.com/100-hours-a-week/jack-til/blob/main/November/2024-11-11.md) - [Express REST 관련 개념 정리]
 
 ### [ 11월 셋째주, 3주차 ] - js 기초, 웹 응용
