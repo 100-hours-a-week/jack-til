@@ -2,6 +2,8 @@
 
 ### [ 12월 둘째주 ]
 
+- [x] [2024-12-19](https://github.com/100-hours-a-week/jack-til/blob/main/November/2024-12-19.md) - [네트워크 TCP/IP 개념정리2]
+- [x] [2024-12-18](https://github.com/100-hours-a-week/jack-til/blob/main/November/2024-12-18.md) - [네트워크 TCP/IP 개념정리]
 - [x] [2024-12-12](https://github.com/100-hours-a-week/jack-til/blob/main/November/2024-12-12.md) - [Docker 딥 다이브 한줄 정리]
 
 ### [ 11월 넷째주 ] - Express 웹 서버, React, DB 개념 정리
